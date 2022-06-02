@@ -7,7 +7,7 @@ $ yarn add atcoder-cli
 ```
 
 > **Note**
->
+
 > ローカルでOK
 
 ## [online-judge-tools](https://github.com/online-judge-tools/oj)のインストール
@@ -34,5 +34,5 @@ $ acc submit ./main.js
 ```
 
 > **Note**
->
+
 > setup.sh内で、node\_modulesのパスを通したり、仮想環境をアクティブにしたりしている
